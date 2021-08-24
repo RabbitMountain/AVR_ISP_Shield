@@ -1,7 +1,7 @@
 SparkFun AVR ISP Shield
 ========================
 
-![SparkFun AVR ISP Shield](https://cdn.evilmadscientist.com/catalog/emskits/ispshield/kit2/imgmed/1@2x.jpg)
+![SparkFun AVR ISP Shield](https://www.bananarobotics.com/shop/image/cache/data/sku/BR/0/1/0/1/7/BR010171-Evil-Mad-Science-ISP-Arduino-Shield-Kit/Evil-Mad-Science-ISP-Arduino-Shield-Kit-600x600.jpg)
 
 [*SparkFun AVR ISP Shield (DEV-11168)*](https://www.sparkfun.com/products/11168)
 
