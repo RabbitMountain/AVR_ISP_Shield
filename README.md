@@ -1,7 +1,7 @@
 SparkFun AVR ISP Shield
 ========================
 
-![SparkFun AVR ISP Shield](https://cdn.sparkfun.com//assets/parts/6/6/5/2/11168-01.jpg)
+![SparkFun AVR ISP Shield](https://cdn.evilmadscientist.com/catalog/emskits/ispshield/kit2/imgmed/1@2x.jpg)
 
 [*SparkFun AVR ISP Shield (DEV-11168)*](https://www.sparkfun.com/products/11168)
 
