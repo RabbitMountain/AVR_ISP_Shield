@@ -1,4 +1,4 @@
-Rabbit_Mountain_Reseach AVR ISP Shield
+AVR ISP Shield
 ========================
 
 ![AVR ISP Shield](https://www.bananarobotics.com/shop/image/cache/data/sku/BR/0/1/0/1/7/BR010171-Evil-Mad-Science-ISP-Arduino-Shield-Kit/Evil-Mad-Science-ISP-Arduino-Shield-Kit-600x600.jpg)
