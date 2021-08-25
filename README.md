@@ -10,10 +10,10 @@ This is a slightly modified clone of the Evil Mad Scientist AVR ISP Shield v2.0.
 
 Rabbit Mountain Research changes
 -------------------
-*converted EvilMadScience design from gEDA to Autodesk EagleCAD.
-*fixed the non-working "hello" LED
-*added 5v / 3v VCC power select jumper (taken from Sparkfun's ISP Shield design)
-*added 0.1uF reset capacitor for UNO / 328p Arduino compatibility
+* converted EvilMadScience design from gEDA to Autodesk EagleCAD
+* fixed the non-working "hello" LED
+* added 5v / 3v VCC power select jumper (taken from Sparkfun's ISP Shield design)
+* added 0.1uF reset capacitor for UNO / 328p Arduino compatibility
 
 Repository Contents
 -------------------
